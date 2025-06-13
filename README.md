@@ -12,7 +12,7 @@ A simple Python project that summarizes the main idea of a `.txt` article using 
 
 1. Install dependencies:
 ```bash
-pip install openai gradio
+pip3 install openai gradio
 ```
 
 2. Set your OpenAI API key
