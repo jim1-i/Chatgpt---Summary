@@ -21,12 +21,12 @@ export OPENAI_API_KEY=your_openai_key   # for Linux/macOS
 set OPENAI_API_KEY=your_openai_key      # for Windows CMD
 ```
 
-3.1 Run program by UI
+3. Run program by UI
 ```bash
 python ui.py
 ```
 
-3.2 Run program by command line
+4. Run program by command line
 ```bash
 python main.py --file ../test/test.txt --output ../test/summary.txt
 ```
