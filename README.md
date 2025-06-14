@@ -23,10 +23,10 @@ set OPENAI_API_KEY=your_openai_key      # for Windows CMD
 
 3. Run program by UI
 ```bash
-python ui.py
+python3 ui.py
 ```
 
 4. Run program by command line
 ```bash
-python main.py --file ../test/test.txt --output ../test/summary.txt
+python3 main.py --file ../test/test.txt --output ../test/summary.txt
 ```
